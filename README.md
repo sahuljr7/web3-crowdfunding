@@ -1,6 +1,6 @@
 # web3-crowdfunding
 
-number two trusted crowdfunding platform using a smart contract 
+trusted crowdfunding platform using a smart contract 
 as per trusted reports 85% of the startups delay the delivery and 14% of them don't deliver at all what was promised  to angel investors
 
 as of today many crowdfunding platforms have accountability and trust problems  and 
